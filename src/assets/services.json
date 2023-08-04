@@ -1,0 +1,32 @@
+{
+  "services": [
+    {
+      "name": "Incident Detection",
+      "description": "Monitoring and identifying potential incidents or anomalies in systems and services."
+    },
+    {
+      "name": "Incident Triage",
+      "description": "Assessing and categorizing incidents based on severity and impact."
+    },
+    {
+      "name": "Incident Escalation",
+      "description": "Routing incidents to appropriate teams or personnel for further investigation and resolution."
+    },
+    {
+      "name": "Incident Communication",
+      "description": "Providing timely and accurate updates to stakeholders during incident response."
+    },
+    {
+      "name": "Incident Investigation",
+      "description": "Conducting root cause analysis and in-depth investigation to understand the incident's origin."
+    },
+    {
+      "name": "Incident Documentation",
+      "description": "Maintaining detailed records and documentation of incident response activities."
+    },
+    {
+      "name": "Incident Reporting",
+      "description": "Generating incident reports to track and analyze incident trends and patterns."
+    }
+  ]
+}
