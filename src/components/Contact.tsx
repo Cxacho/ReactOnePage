@@ -6,7 +6,7 @@ function Contact(){
 
             <div className="contact-container">
 
-                <p>Masz pytania lub chciałbyś dowiedzieć się więcej o naszych produktach i usługach? Skontaktuj się z nami, a nasi przedstawiciele chętnie odpowiedzą na Twoje zapytania. Jesteśmy dostępni przez telefon, e-mail oraz formularz kontaktowy na naszej stronie.</p>
+                <p>Masz pytania lub chciałbyś dowiedzieć się więcej o moich usługach? Skontaktuj się ze mną, a chętnie odpowiem na Twoje pytania.</p>
                 <p className="footer"> Dziękuję za odwiedzenie mojej strony! Mamy nadzieję, że znajdziesz tu wszystkie potrzebne informacje i dołączysz do grona naszych zadowolonych klientów.</p>
 
             </div>

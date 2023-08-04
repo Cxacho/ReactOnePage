@@ -5,7 +5,7 @@ function Services(){
 
             <h2>Usługi</h2>
 
-            Zapraszamy do naszej galerii, gdzie znajdziesz szeroki wybór naszych produktów i zrealizowanych projektów. Nasza oferta obejmuje najnowocześniejsze technologie oraz kreatywne rozwiązania, które z pewnością Cię zainspirują.
+            <p className="services-text">Zapraszam do zapoznania się z moją ofertą, gdzie znajdziesz szeroki wybór. Moja oferta obejmuje najnowocześniejsze technologie oraz kreatywne rozwiązania, które z pewnością Cię zainspirują.</p>
 
             <div className="services-container">
 

@@ -34,10 +34,10 @@ nav{
 ul{
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  width: 50%;
 }
 li{
-  width: 25%;
+  width: 10%;
 }
 li > a{
   text-decoration: none;
@@ -87,6 +87,9 @@ section:nth-child(odd) {
 .home{
   width: 45%;
 }
+#services h2{
+  color: black;
+}
 .services-container{
   display: flex;
   flex-wrap: wrap;
@@ -97,6 +100,9 @@ section:nth-child(odd) {
   justify-content: center;
   padding: 20px 0;
   font-size: 1.3rem;
+}
+.services-text{
+  color: black;
 }
 .service-item{
   background-image: url("/public/services.png");
@@ -119,7 +125,7 @@ section:nth-child(odd) {
   height: 100%;
   width: 100%;
   background-color: black;
-  opacity: .4;
+  opacity: .5;
   z-index: -1;
   border-radius: 10px;
 }
@@ -127,11 +133,21 @@ section:nth-child(odd) {
   padding: 15px 0;
   font-size: 2rem;
 }
+.service-item p{
+  padding: 0 10px;
+}
+#contact{
+  color: black;
+}
 .contact-container{
   display: flex;
   height: calc(100vh - 116px);
   flex-direction: column;
   justify-content: space-between;
+}
+.contact-text{
+  width: 100%;
+  text-align: center;
 }
 .footer{
   padding-bottom: 10px;
